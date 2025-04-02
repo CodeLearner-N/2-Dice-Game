@@ -20,3 +20,32 @@ This is a simple yet engaging two-player dice game built using React.js.Player h
 💻 HTML & CSS
 
 🎲 JavaScript
+
+📦 Installation & Usage
+
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone <your-repo-url>
+Navigate to the project folder:
+
+bash
+Copy
+Edit
+cd dice-game
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Start the game:
+
+bash
+Copy
+Edit
+npm start
+
+Open your browser and play at http://localhost:3000/
